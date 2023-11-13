@@ -1,6 +1,6 @@
 {
                "name": "Shenu-Queen-Md",
-               "version": "4.0",
+               "version": "0.0.7",
                "description": "Multi device whatsapp bot by Thushan.",
                "main": "lib/client.js",
                "type": "commonjs",
